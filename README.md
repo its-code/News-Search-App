@@ -2,7 +2,7 @@
 
 ## Setting Up
 
-### Backend
+### First RUN Backend before running Frontend
 
 1. Navigate to the backend directory:
     ```bash
@@ -27,7 +27,7 @@
 
 ### Frontend
 
-1. Navigate to the frontend directory:
+1. Open the new Terminal and navigate to the frontend directory:
     ```bash
     cd frontend
     ```
