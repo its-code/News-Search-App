@@ -2,6 +2,14 @@
 
 ## Setting Up
 
+### Clone the Repository
+
+1. Before proceeding with the setup, ensure you have cloned the repository:
+   ```bash
+    git clone https://github.com/its-code/News-Search-App.git
+    cd News-Search-App
+    ```
+   
 ### First RUN Backend before running Frontend
 
 1. Navigate to the backend directory:
