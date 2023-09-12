@@ -1,0 +1,6 @@
+# Backend ignores
+backend/venv/
+
+# Frontend ignores
+frontend/node_modules/
+frontend/package-lock.json
